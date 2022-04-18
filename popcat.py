@@ -6,7 +6,7 @@ driver.get("https://popcat.click/?fbclid=IwAR3CW5KILkvfCSsAysw7jILWKYZNgeV4Fp285
 #time.sleep(5)
 driver.implicitly_wait(10)
 ele = driver.find_element_by_css_selector(".cat-img")
-for i in range(9999999999999999999999999999999999999999999999):
-    if i < 9999999999999999999999999999999999999999999999:
+for i in range(8889999999999999999999999999999999999999999999999):
+    if i < 8889999999999999999999999999999999999999999999999:
         ele.click()
 
